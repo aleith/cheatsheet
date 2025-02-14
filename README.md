@@ -1,6 +1,5 @@
 # The haskell cheatsheet with TOC Bookmarks.
-The Haskell cheatsheet v2.9 by Justin Bailey, ©2010. Simmply added PDF Bookmarks in Acrobat 
-for all the section headings. 
+The Haskell cheatsheet v2.9 by Justin Bailey, ©2010. I simmply added PDF Bookmarks (using Adobe Acrobat Pro) for all the section headings. 
 
 Download [The Haskell CheatSheet with Bookmarks PDF here](https://github.com/aleith/cheatsheet/blob/main/The%20Haskell%20CheatSheet%20with%20Bookmarks.pdf). 
 
