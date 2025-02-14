@@ -2,7 +2,7 @@
 The Haskell cheatsheet v2.9 by Justin Bailey, ©2010. Simmply added PDF Bookmarks in Acrobat 
 for all the section headings. 
 
-Download PDF [here](The Haskell CheatSheet with Bookmarks.pdf). 
+Download [The Haskell CheatSheet with Bookmarks PDF here](https://github.com/aleith/cheatsheet/blob/main/The%20Haskell%20CheatSheet%20with%20Bookmarks.pdf)). 
 
 Document is set to open with the Bookmarks Tab open (right hand side of window in latest version of Acrobat).
 The bookmarks effectively are a Table of Contents (TOC) for all section headings. here are three leels of headings, 
